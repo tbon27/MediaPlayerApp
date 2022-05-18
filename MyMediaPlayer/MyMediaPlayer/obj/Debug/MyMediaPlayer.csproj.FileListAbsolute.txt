@@ -1,0 +1,14 @@
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Form1.resources
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Properties.Resources.resources
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.GenerateResource.cache
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+C:\Users\tbong\Documents\GitHub\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
